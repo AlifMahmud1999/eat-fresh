@@ -1,0 +1,80 @@
+
+body{
+  
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+
+}
+h1{
+    font-size: 60px;
+}
+span{
+    color: salmon;
+}
+.flex{
+    display: flex;
+}
+.width-half{
+    width: 50%;
+    padding-left: 150px;
+
+}
+.width-half img{
+    width: 70%;
+}
+section{
+    margin-bottom: 150px;
+}
+a{
+    background-color: aqua;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 15px;
+    background-image: linear-gradient(salmon,tomato);
+    color: white;
+}
+.middle-banner{
+    background-image: url(images/shapes/7.png);
+}
+.recipe{
+    text-align: center;
+}
+.recipe-title img{
+    width: 100%;
+}
+.title{
+    margin-left: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 50px;
+    border-radius: 20px;
+}
+.followers{
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 30px;
+    border-radius: 15px;
+    
+}
+.gaps{
+    padding-left: 17%;
+    padding-right: 0%;
+}
+.last-portion{
+    background-color: black;
+    text-align: center;
+    border:0 ;
+    padding-bottom: 5%;
+   
+}
+.orange{
+    color: orange;
+}
+.grey{
+    color: grey;
+}
+.white{
+    color: white;
+}
